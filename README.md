@@ -17,7 +17,18 @@ Each release carries three files:
 An update is swapped in only when its hash matches the appcast and its
 signature comes from the same developer as the copy already installed.
 
-Feedback: hello@escalebrowser.com.
+## Feedback
+
+In Escale, **Help › Send Feedback…** opens a new issue here with your
+version, build and macOS already filled in. You can also
+[open one directly](https://github.com/kndpt/Escale-releases/issues/new).
+Issues are public: leave out anything private (addresses of internal sites,
+tokens, screenshots of your work). For something you'd rather not post,
+write to hello@escalebrowser.com.
+
+Say what you did, what you expected and what happened. If Escale crashed,
+`~/Library/Application Support/Escale/crash.log` has the last trace; it
+never leaves your Mac unless you attach it.
 
 Escale began from [Search](https://github.com/driceroland/Search) by Office
 Commun (MIT); both notices ship inside the app.
